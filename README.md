@@ -1,1 +1,1 @@
-# Functions-
+# Data type and structure
